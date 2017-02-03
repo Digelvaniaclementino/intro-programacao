@@ -1,0 +1,75 @@
+1- 1° passo: Inicie a com dividendo, vá p/2
+2°Inicie b com divisor, vá p/3
+3°Inicie c com o valor 0 , vá p/4
+4° Se a < b, vá p/ 4.1, senão vá p/5
+4.1 Incremente c com 1, vá p/ 4.2
+4.2 Subtraia b de a, vá p/ vá p/4
+5° c é o resultado e a é o resto . Fim
+
+
+2- 1° passo: Inicie a com um fator e b com o outro fator, vá p/2
+2° passo: Inicie c com  valor 0 , vá p/3
+3°Se a > 0, vá p/ 3.1, senão vá p/4
+3.1 Add b em c , vá p/ 3.2
+3.2 Decremente a em 1 unidade, vá p/3
+4° c é o resultado
+
+
+
+3- 1° Passo: Receba o valor de a, vá p/ o passo 2°
+2° Passo: Receba o valor de b, vá p/ o passo 3°
+3° passo: Receba o valor de c, vá p/ o passo 4°
+4° se a < b,vá p/ o passo 5°
+5°incremente a e b , Fim
+
+
+4- 1° passo: Inicie a com o valor 1, vá p/2
+2° passo: Inicie b com o valor 0, vá p/3
+3° passo: Inicie c com o valor de N, vá p/4
+4° Se a <- c , vá p/4.1, senão vá p/5
+4.1 Adicione o valor de a em b, vá p/4.2
+4.2 Incremente 1 unidade em a, vá p/4
+5°O resultado é b. Fim
+
+5- 1°passo
+a recebe 2
+b recebe 4
+c recebe 6
+2° passo: Se a > b ou a > c vá p/3 ou se b > c vá p/3 ou se c > a ou c > b vá p/3
+3° passo: Mostre o maior numero
+
+6- 1°passo: a recebe 6 vá p/o passo 2°
+2° passo: se a / 2 for igual a 0 e a for maior que que 0 vá p/o passo 3°
+3° passo: Mostre uma mensagem informando se o número é par e positivo
+
+7- 1° Passo: Anos meses dias
+a recebe a idade vá p/ o passo 2°
+2° passo: a = a	* meses vá p/ o passo 3°
+a = a * dias vá p/ o passo 4°
+4° a idade de a e dias fim
+
+8- 1° passo: a recebe a idade da pessoa vá p/ o passo 2°
+a = idade
+2° passo: a tem que dividir vá p/ o passo 3°
+3°i tem que ser dividido vá p/ o passo 4°
+4°idade equivale a anos meses e dias. Fim
+
+9- 1° passo: n1,n2,n3 vá p/ o passo 2°
+2° passo: multiplicar as notas (n1*2),(n2*3),(n3*5) vá p/ o passo 3°
+3°passo : some os produtos das notas (n1*2)+(n2*3)+(n3*5)vá p/ o passo 4°
+4° passo: dividir o resultado da soma pela soma dos pesos(n1*2)+(n2*3)+(n3*5) vá p/ o passo 5°
+5° passo: mostre a média mostre o resultado. Fim
+
+10- 1° passo: Evento recebe 3 600 segundo vá p/ o passo 2°
+2° passo: 3 600 dividido por 60 que corresponde a 60 minutos vá p/ o passo 3°
+3°passo: 60 minutos corresponde a 1 hora vá p/ o passo 4°
+4° passo: exiba o resultado 1 hora 60 minutos 3 600 segundos
+
+11- receba o valor da percentagem 28%
+receba o valor dos impostos 45% 
+1° passo: a recebe 28% vá p/ o passo 2°
+2° passo: b recebe 45% vá p/ o passo 3°
+3° passo: some a com b vá p/ o passo 4°
+4° passo: calcule o custo do carro custo é igual T vezes.73
+
+
